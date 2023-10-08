@@ -1,0 +1,25 @@
+table {
+    height: 600px;
+    width: 970px;
+}
+
+table, td{ 
+    border: -1px solid black;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even){
+    background-color: #B31942 ;
+}
+
+*{
+    margin: 30px;
+}
+
+img{
+    height: 257px;
+    width: 340px;
+   margin-top: -700px;
+   margin-bottom: 345px;
+   margin-left: -1px;
+}
